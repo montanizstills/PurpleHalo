@@ -1,21 +1,21 @@
 #!/bin/zsh
 
-sudo apt install install nmap
+sudo apt install nmap
 snap install enum4linux
-sudo apt install install smbclient
-sudo apt install install smbmap
-sudo apt install install crackmapexec
-sudo apt install install john
-sudo apt install install hydra
+sudo apt install smbclient
+sudo apt install smbmap
+sudo apt install crackmapexec
+sudo apt install john
+sudo apt install hydra
 sudo apt install ghidra
-sudo apt install install hashcat
-sudo apt install install nikto
-sudo apt install install gobuster
-sudo apt install install dirb
-sudo apt install install wpscan
-sudo apt install install sqlmap
-sudo apt install install burpsuite
-sudo apt install install metasploit
+sudo apt install hashcat
+sudo apt install nikto
+sudo apt install gobuster
+sudo apt install dirb
+sudo apt install wpscan
+sudo apt install sqlmap
+sudo apt install burpsuite
+sudo apt install metasploit
 sudo apt install owasp-zap
 sudo apt install wpscanteam/tap/wpscan
 sudo apt install exploitdb
